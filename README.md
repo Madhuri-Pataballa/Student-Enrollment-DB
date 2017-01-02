@@ -1,2 +1,2 @@
 # Sql-Project
-Designed SQL Database for Student Details
+SQL Database for Student Details
