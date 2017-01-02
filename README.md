@@ -1,2 +1,5 @@
-# Sql-Project
-SQL Database for Student Details
+# Student Enrollment DB
+**Designed a Database for Student Enrollment fro a college**
++ Created all the required tables and provided all the relationships among all the tables.
+
++ Created StoreProc's, Triggers and Views. 
