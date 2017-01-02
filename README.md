@@ -1,5 +1,7 @@
-# Student Enrollment DB
-**Designed a Database for Student Enrollment for a college**
-+ Created all the required tables and provided all the relationships among all the tables.
+# Student Enrollment Database
+**Covers Database Design, T-Sql scripts and Stored Procedures for Student Enrolling to a College**
++ Folder 1 - Contains Database Schema and Tables
 
-+ Created StoreProc's, Triggers and Views. 
++ Folder 2 - Contains Scripts that inserts test values into these tables
+
++ Folder 3 - 
